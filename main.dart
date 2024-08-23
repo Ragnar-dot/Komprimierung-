@@ -33,4 +33,5 @@ String compressString(String input) {
     }
   }
   return compressed.toString();
+  dfa
 }
